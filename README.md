@@ -1,6 +1,6 @@
 # Ethereum Storage Fetcher
 
-This project uses the JSON RPC call using eth_getStorageAt() to get the first storage variable (slot #0) any deployed smart contract and returns the retrieved value.
+This project uses the JSON RPC call using eth_getStorageAt() to get the first storage variable (slot #0) in any deployed smart contract and returns the retrieved value.
 
 Here it fetches the value stored at the first slot of a swisstronick deployed smart contract. The value returned is in hexadecimal format. If the storage variable is a string, the hexadecimal value is converted to a string for better interpretation.
 
