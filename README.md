@@ -2,7 +2,7 @@
 
 This project uses the JSON RPC call using eth_getStorageAt() to get the first storage variable (slot #0) any deployed smart contract and returns the retrieved value.
 
-It fetches the value stored at the first slot of a specific Ethereum smart contract's storage. The value returned is in hexadecimal format. If the storage variable is a string, the hexadecimal value is converted to a string for better interpretation.
+Here it fetches the value stored at the first slot of a swisstronick deployed smart contract. The value returned is in hexadecimal format. If the storage variable is a string, the hexadecimal value is converted to a string for better interpretation.
 
 As for the differences with other blockchains when using this RPC method, it depends on the specific blockchain. Ethereum-based blockchains that support the Ethereum JSON RPC API should behave the same way. However, blockchains that use a different architecture or storage model could potentially behave differently. It is recommended to check the specific blockchain's documentation for more details.
 
