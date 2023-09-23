@@ -102,7 +102,7 @@ Contributions are welcome. If you're interested in contributing to this project,
 
 ## Contact
 
-If you want to contact me, you can reach me at `your-email@example.com`.
+If you want to contact me, you can reach me at `littignatius@gmail.com`.
 
 ## License
 
