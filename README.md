@@ -93,7 +93,7 @@ To use the project, follow these steps:
 2. Save the `index.js` file and close the text editor.
 
 3. Back in the terminal, run the script using Node.js:
-    `bash node index.js`
+    `bash node index.js` or `bash node method2.js`
 
 
 ## Contributing
